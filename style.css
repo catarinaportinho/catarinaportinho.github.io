@@ -168,6 +168,8 @@ a:hover { color: var(--purple-mid); }
 .card-links { margin-top: auto; padding-top: 16px; display: flex; flex-direction: column; align-items: flex-start; gap: 10px; }
 .card-links a { font-weight: 600; font-size: .88rem; color: var(--purple); }
 .card-links a:hover { color: var(--gold); }
+.pub-link { display: inline-block; margin-left: 6px; font-weight: 600; font-size: .82rem; color: var(--purple); white-space: nowrap; }
+.pub-link:hover { color: var(--gold); }
 
 /* Publications */
 .pub-group { margin-bottom: 40px; }
