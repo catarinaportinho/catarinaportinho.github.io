@@ -87,6 +87,9 @@ a:hover { color: var(--purple-mid); }
 .btn-primary:hover { background: var(--purple-mid); color: #fff; transform: translateY(-2px); box-shadow: 0 12px 30px rgba(75,46,131,.34); }
 .btn-ghost { border: 1px solid var(--lavender-2); color: var(--purple); background: rgba(255,255,255,.6); }
 .btn-ghost:hover { border-color: var(--purple-soft); transform: translateY(-2px); }
+.btn-whats { background: #25d366; color: #fff; box-shadow: 0 8px 24px rgba(37,211,102,.28); }
+.btn-whats:hover { background: #1ebe5d; color: #fff; transform: translateY(-2px); box-shadow: 0 12px 30px rgba(37,211,102,.34); }
+.btn-whats svg { width: 18px; height: 18px; fill: currentColor; }
 
 .portrait {
   justify-self: center;
